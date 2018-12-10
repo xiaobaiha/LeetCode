@@ -9,6 +9,12 @@
       "request": "launch",
       "name": "2-1",
       "program": "${workspaceFolder}/2\\2-1.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "3-1",
+      "program": "${workspaceFolder}/3\\3-1.js"
     }
   ]
 }
